@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SmartCam</string>
+    <string name="title_activity_main">SmartCam</string>
+    <string name="package_name">com.ejemplo.smartcam</string>
+    <string name="custom_url_scheme">com.ejemplo.smartcam</string>
+</resources>
