@@ -1,0 +1,23 @@
+export const esTranslation = {
+  person: 'persona', bicycle: 'bicicleta', car: 'auto', motorcycle: 'moto',
+  airplane: 'avión', bus: 'autobús', train: 'tren', truck: 'camión',
+  boat: 'barco', traffic_light: 'semáforo', fire_hydrant: 'hidrante',
+  stop_sign: 'pare', parking_meter: 'parquímetro', bench: 'banco',
+  bird: 'pájaro', cat: 'gato', dog: 'perro', horse: 'caballo',
+  sheep: 'oveja', cow: 'vaca', elephant: 'elefante', bear: 'oso',
+  zebra: 'cebra', giraffe: 'jirafa', backpack: 'mochila', umbrella: 'paraguas',
+  handbag: 'bolso', tie: 'corbata', suitcase: 'maleta', frisbee: 'frisbee',
+  skis: 'esquís', snowboard: 'snowboard', sports_ball: 'pelota', kite: 'cometa',
+  baseball_bat: 'bate', baseball_glove: 'guante', skateboard: 'skate',
+  surfboard: 'tabla surf', tennis_racket: 'raqueta', bottle: 'botella',
+  wine_glass: 'copa', cup: 'taza', fork: 'tenedor', knife: 'cuchillo',
+  spoon: 'cuchara', bowl: 'tazón', banana: 'plátano', apple: 'manzana',
+  sandwich: 'sándwich', orange: 'naranja', broccoli: 'brócoli', carrot: 'zanahoria',
+  hot_dog: 'perrito', pizza: 'pizza', donut: 'rosquilla', cake: 'pastel',
+  chair: 'silla', couch: 'sofá', potted_plant: 'maceta', bed: 'cama',
+  dining_table: 'mesa', toilet: 'inodoro', tv: 'TV', laptop: 'portátil',
+  mouse: 'ratón', remote: 'control remoto', keyboard: 'teclado', cell_phone: 'celular',
+  microwave: 'microondas', oven: 'horno', toaster: 'tostadora', sink: 'fregadero',
+  refrigerator: 'nevera', book: 'libro', clock: 'reloj', vase: 'jarrón',
+  scissors: 'tijeras', teddy_bear: 'osito', hair_drier: 'secador', toothbrush: 'cepillo'
+};
